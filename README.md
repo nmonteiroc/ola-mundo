@@ -1,2 +1,2 @@
-# ola mundo
-Criando primeiro repositório do curso guanabara
+# Olá, Mundo!
+Criando primeiro repositório do curso Guanabara
